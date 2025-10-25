@@ -1,0 +1,15 @@
+# ninja log v6
+12	159	7810251084424493	CMakeFiles/SanatorioApp.dir/HTTPClient.cpp.obj	a2adb05d685d0ab9
+18	169	7810251084474361	CMakeFiles/SanatorioApp.dir/GeocodificadorAPI.cpp.obj	13eca2bd562e59f4
+7	2542	7810251084364676	CMakeFiles/SanatorioApp.dir/main.cpp.obj	9ed1e4a09d7ab34
+2544	6246	7810251109744690	bin/SanatorioApp.exe	44cd418beee61880
+48	2687	7810309959626980	CMakeFiles/pruebaUbicacion.dir/main.cpp.obj	4065d358b9e4ff88
+104	6958	7810309960285203	CMakeFiles/pruebaUbicacion.dir/HTTPClient.cpp.obj	9a8280d190aa4e83
+336	14137	7810309962499282	CMakeFiles/pruebaUbicacion.dir/GeocodificadorAPI.cpp.obj	ef67e8105d53f5c0
+14144	20028	7810310100589858	bin/pruebaUbicacion.exe	44206e2dc833fd74
+40	8697	7810310647349505	CMakeFiles/pruebaUbicacion.dir/main.cpp.obj	4065d358b9e4ff88
+8698	15124	7810310733927889	bin/pruebaUbicacion.exe	44206e2dc833fd74
+151	13559	7810465143111001	CMakeFiles/pruebaUbicacion.dir/GeocodificadorAPI.cpp.obj	ef67e8105d53f5c0
+13560	21079	7810465277205000	bin/pruebaUbicacion.exe	44206e2dc833fd74
+16	11044	7810484144022112	CMakeFiles/pruebaUbicacion.dir/GeocodificadorAPI.cpp.obj	ef67e8105d53f5c0
+11045	15748	7810484254311702	bin/pruebaUbicacion.exe	44206e2dc833fd74

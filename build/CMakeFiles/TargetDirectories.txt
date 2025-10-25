@@ -1,0 +1,3 @@
+C:/Users/Carol/Desktop/FIE3ERANIO/ParadigmasDeProgramacion3/pruebaUbicacion/build/CMakeFiles/pruebaUbicacion.dir
+C:/Users/Carol/Desktop/FIE3ERANIO/ParadigmasDeProgramacion3/pruebaUbicacion/build/CMakeFiles/edit_cache.dir
+C:/Users/Carol/Desktop/FIE3ERANIO/ParadigmasDeProgramacion3/pruebaUbicacion/build/CMakeFiles/rebuild_cache.dir

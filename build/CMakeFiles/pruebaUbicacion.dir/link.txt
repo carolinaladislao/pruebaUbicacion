@@ -1,0 +1,3 @@
+C:\msys64\ucrt64\bin\cmake.exe -E rm -f CMakeFiles\pruebaUbicacion.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\pruebaUbicacion.dir/objects.a @CMakeFiles\pruebaUbicacion.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\pruebaUbicacion.dir/objects.a -Wl,--no-whole-archive -o bin\pruebaUbicacion.exe -Wl,--out-implib,libpruebaUbicacion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pruebaUbicacion.dir\linkLibs.rsp
